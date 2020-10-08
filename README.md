@@ -2,7 +2,7 @@
 
 # Introduction
 
-**FortifyUI Tailwind** is a Laravel Fortify UI preset, built with SomeFramework.
+**FortifyUI Tailwind** is a Laravel Fortify UI preset, built with Tailwind CSS.
 
 -   [Installation](#installation)
 
