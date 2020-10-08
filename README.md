@@ -25,7 +25,7 @@ This command will publish **FortifyUI Tailwind's** views and resources to your p
 -   All `auth` views
 -   Other files...
 
-<p align="center"><img  src="https://github.com/pradeep3/fortify-ui-tailwindcss/raw/master/fortify-ui-tailwindcss-screenshot.png"></p>
+<p align="center"><img  src="https://github.com/pradeep3/fortify-ui-tailwindcss/raw/master/fortify-ui-tailwindcss-screenshot.PNG"></p>
 
 ## License
 
