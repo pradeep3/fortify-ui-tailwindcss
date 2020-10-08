@@ -11,7 +11,7 @@
          verbose="true"
 >
     <testsuites>
-        <testsuite name="YourNamespace Test Suite">
+        <testsuite name="Pradeep Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

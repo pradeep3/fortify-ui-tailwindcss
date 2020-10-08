@@ -1,7 +1,7 @@
 # Changelog
 
-All notable changes to `fortify-ui-preset` will be documented in this file
+All notable changes to `fortify-ui-tailwind` will be documented in this file
 
-## 1.0.0 - 202X-XX-XX
+## 1.0.0 - 2020-10-08
 
-- initial release
+-   initial release

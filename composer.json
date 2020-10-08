@@ -1,16 +1,16 @@
 {
-    "name": "yournamespace/fortify-yourpreset",
-    "description": "Fortify-driven Laravel UI replacement",
+    "name": "pradeep/fortify-ui-tailwindcss",
+    "description": "Laravel Fortify tailwind UI",
     "keywords": [
         "fortify-ui"
     ],
-    "homepage": "https://github.com/yourusername/fortify-yourpreset",
+    "homepage": "https://github.com/pradeep3/fortify-ui-tailwindcss",
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "you@yourdomain.com",
-            "homepage": "https://yourusername.github.io",
+            "name": "K Pradeep Kumar",
+            "email": "pradeep@kpktechnology.com",
+            "homepage": "https://twitter.com/me_kpk",
             "role": "Developer"
         }
     ],
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "YourNamespace\\FortifyUIPreset\\": "src"
+            "Pradeep\\FortifyUITailwind\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "YourNamespace\\FortifyUIPreset\\Tests\\": "tests"
+            "Pradeep\\FortifyUITailwind\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -47,7 +47,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "YourNamespace\\FortifyUIPreset\\FortifyUIPresetServiceProvider"
+                "Pradeep\\FortifyUITailwind\\FortifyUITailwindServiceProvider"
             ]
         }
     },
