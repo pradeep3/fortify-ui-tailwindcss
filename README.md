@@ -1,4 +1,4 @@
-<p align="center"><img width="400" src="https://github.com/zacksmash/fortify-ui-preset/raw/master/fortify-preset-image.png"></p>
+<p align="center"><img width="400" src="https://github.com/pradeep3/fortify-ui-tailwindcss/raw/master/fortify-ui-tailwindcss.png"></p>
 
 # Introduction
 
@@ -25,7 +25,7 @@ This command will publish **FortifyUI Tailwind's** views and resources to your p
 -   All `auth` views
 -   Other files...
 
-<p align="center"><img  src="https://github.com/zacksmash/fortify-ui-preset/raw/master/fortify-preset-screenshot.png"></p>
+<p align="center"><img  src="https://github.com/pradeep3/fortify-ui-tailwindcss/raw/master/fortify-ui-tailwindcss-screenshot.png"></p>
 
 ## License
 
