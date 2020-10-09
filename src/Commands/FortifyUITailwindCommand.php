@@ -1,6 +1,6 @@
 <?php
 
-namespace MeKPK\FortifyUITailwind\Commands;
+namespace Pradeep3\FortifyUITailwind\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Str;

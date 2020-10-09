@@ -1,5 +1,5 @@
 {
-    "name": "pradeep/fortify-ui-tailwindcss",
+    "name": "pradeep3/fortify-ui-tailwindcss",
     "description": "Laravel Fortify tailwind UI",
     "keywords": [
         "fortify-ui"
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "MeKPK\\FortifyUITailwind\\": "src"
+            "Pradeep3\\FortifyUITailwind\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MeKPK\\FortifyUITailwind\\Tests\\": "tests"
+            "Pradeep3\\FortifyUITailwind\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -47,7 +47,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MeKPK\\FortifyUITailwind\\FortifyUITailwindServiceProvider"
+                "Pradeep3\\FortifyUITailwind\\FortifyUITailwindServiceProvider"
             ]
         }
     },
