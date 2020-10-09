@@ -27,6 +27,12 @@ This command will publish **FortifyUI Tailwind's** views and resources to your p
 
 <p align="center"><img  src="https://github.com/mekpk/fortify-ui-tailwindcss/raw/master/fortify-ui-tailwindcss-screenshot.PNG"></p>
 
+```bash
+npm install && npm run dev
+```
+
+This command will install the tailwind css and neccessary node packages
+
 ## License
 
 **FortifyUI Tailwind** is open-sourced software licensed under the [MIT license](LICENSE.md).
