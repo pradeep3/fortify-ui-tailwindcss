@@ -4,7 +4,7 @@
     "keywords": [
         "fortify-ui"
     ],
-    "homepage": "https://github.com/pradeep3/fortify-ui-tailwindcss",
+    "homepage": "https://github.com/mekpk/fortify-ui-tailwindcss",
     "license": "MIT",
     "authors": [
         {
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Pradeep\\FortifyUITailwind\\": "src"
+            "MeKPK\\FortifyUITailwind\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Pradeep\\FortifyUITailwind\\Tests\\": "tests"
+            "MeKPK\\FortifyUITailwind\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -47,7 +47,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Pradeep\\FortifyUITailwind\\FortifyUITailwindServiceProvider"
+                "MeKPK\\FortifyUITailwind\\FortifyUITailwindServiceProvider"
             ]
         }
     },

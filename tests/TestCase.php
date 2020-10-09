@@ -1,6 +1,6 @@
 <?php
 
-namespace Pradeep\FortifyUITailwind\Tests;
+namespace MeKPK\FortifyUITailwind\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 

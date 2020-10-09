@@ -1,6 +1,6 @@
 <?php
 
-namespace Pradeep\FortifyUIPreset\Tests;
+namespace MeKPK\FortifyUIPreset\Tests;
 
 class ExampleTest extends TestCase
 {

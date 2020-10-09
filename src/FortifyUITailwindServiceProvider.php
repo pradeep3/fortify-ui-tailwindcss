@@ -1,9 +1,9 @@
 <?php
 
-namespace Pradeep\FortifyUITailwind;
+namespace MeKPK\FortifyUITailwind;
 
 use Illuminate\Support\ServiceProvider;
-use Pradeep\FortifyUITailwind\Commands\FortifyUITailwindCommand;
+use MeKPK\FortifyUITailwind\Commands\FortifyUITailwindCommand;
 
 class FortifyUITailwindServiceProvider extends ServiceProvider
 {
