@@ -11,7 +11,7 @@
 To get started, you'll need to install **FortifyUI Tailwind** using Composer.
 
 ```bash
-composer require mekpk/fortify-ui-tailwindcss
+composer require pradeep3/fortify-ui-tailwindcss
 ```
 
 Next, you'll need to run the install command:
