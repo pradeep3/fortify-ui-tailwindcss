@@ -2,7 +2,7 @@
 
 # Introduction
 
-**FortifyUI Tailwind** is a Laravel Fortify UI preset, built with Tailwind CSS.
+This package is a Laravel Fortify UI preset, built with Tailwind CSS. This package requires Laravel Fortify. Installing **FortifyUI Tailwind** will automatically install and configure Laravel Fortify for you, so you may start there.
 
 -   [Installation](#installation)
 
